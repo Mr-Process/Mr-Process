@@ -4,7 +4,7 @@ I'm a network systems administrator and founder of a **digital library of AI‑p
 
 <!-- Hero Image -->
 <p align="center">
-  <img src="assets/ai-automation.png" alt="AI-powered document automation illustration" width="600"/>
+  <img src="/ai-automation.png" alt="AI-powered document automation illustration" width="600"/>
 </p>
 
 ## 🚀 What I do
@@ -23,7 +23,7 @@ I'm a network systems administrator and founder of a **digital library of AI‑p
 
 <!-- Network Graphic -->
 <p align="center">
-  <img src="assets/network-systems.png" alt="Network systems and cloud infrastructure graphic" width="600"/>
+  <img src="/network-systems.png" alt="Network systems and cloud infrastructure graphic" width="600"/>
 </p>
 
 ## 📂 Featured repositories
