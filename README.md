@@ -1,43 +1,26 @@
-# 👋 Hi, I'm Jonathon Powell (Mr-Process)
+# Hi, I'm Jonathon Powell (Mr‑Process)
 
-I'm a network systems administrator and founder of a **digital library of AI‑powered, fully customizable business templates** that simplify and automate professional workflows. My mission is to merge robust infrastructure with cutting‑edge AI to build secure, scalable services.
+Seasoned network systems administrator and founder of NovaTerra. I build secure, AI‑powered document automation services that generate contracts, proposals and invoices from structured schemas. My mission is to blend robust infrastructure engineering with cutting‑edge AI to deliver reliable, scalable tools.
 
-<!-- Hero Image -->
-<p align="center">
-  <img src="/ai-automation.png" alt="AI-powered document automation illustration" width="600"/>
-</p>
+## What I Do
+- **Architect and secure network & cloud infrastructure** for high‑availability services.
+- **Build AI‑driven systems** that automatically generate contracts, proposals and invoices.
+- **Integrate e‑signature workflows** (e.g., DocuSign) with full audit trails and lifecycle management.
+- **Design and optimize automated sales funnels** and onboarding pipelines.
 
-## 🚀 What I do
+## Tech Stack
+- **Languages:** Python, TypeScript, Bash
+- **Platforms:** Docker, Kubernetes, Terraform, Linux
+- **AI/ML:** OpenAI API, TensorFlow
+- **Tools:** GitHub, VS Code
 
-- Architect and secure network & cloud infrastructure  
-- Build AI‑driven systems that automatically generate contracts, proposals, invoices, and more  
-- Integrate e‑signature workflows for frictionless document signing  
-- Design and optimize automated sales funnels using email marketing and retargeting campaigns  
+## Featured Work
+- **FHE‑SaaS‑Analytics** – exploring a privacy‑preserving SaaS analytics service using Fully Homomorphic Encryption (FHE). The repository lays out the problem space, architecture and roadmap and is currently focused on design and feasibility.
+- **Operations & Automation Scripts** – a collection of internal scripts and templates used to manage deployments, troubleshoot systems and automate routine tasks.
 
-## 🛠️ Tech stack
-
-- **Languages:** Python, TypeScript, Bash  
-- **Cloud & DevOps:** Docker, Kubernetes, Terraform  
-- **AI/ML:** OpenAI API, TensorFlow  
-- **Tools:** GitHub, VS Code, Linux  
-
-<!-- Network Graphic -->
-<p align="center">
-  <img src="/network-systems.png" alt="Network systems and cloud infrastructure graphic" width="600"/>
-</p>
-
-## 📂 Featured repositories
-
-- [**fhe-saas-analytics**](https://github.com/Mr-Process/fhe-saas-analytics) — exploring Fully Homomorphic Encryption for privacy‑preserving SaaS analytics  
-- [**novaterra-edge-workspace**](https://github.com/Mr-Process/novaterra-edge-workspace) — edge computing platform workspace  
-- [**be-productive_Mr_Process**](https://github.com/Mr-Process/be-productive_Mr_Process) — scripts to make life easier for developers  
-
-## 🌐 Connect with me
-
-- LinkedIn: <https://www.linkedin.com/in/jonathon-powell/>  
-- Twitter: <https://twitter.com/mrprocess>  
-- Website: <https://novaterra.ventures>  
-
----
+## Connect
+- **LinkedIn:** [your LinkedIn URL]
+- **Twitter:** [your Twitter URL]
+- **Website:** [your website]
 
 *Always exploring new technologies and open to collaboration. Feel free to reach out!*
