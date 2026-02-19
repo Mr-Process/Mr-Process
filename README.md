@@ -19,8 +19,8 @@ Seasoned network systems administrator and founder of NovaTerra. I build secure,
 - **Operations & Automation Scripts** – a collection of internal scripts and templates used to manage deployments, troubleshoot systems and automate routine tasks.
 
 ## Connect
-- **LinkedIn:** [your LinkedIn URL]
-- **Twitter:** [your Twitter URL]
-- **Website:** [your website]
+- **LinkedIn:** [LinkedIn URL]
+- **Twitter:** [Twitter URL]
+- **Website:novaterra-venture.io
 
 *Always exploring new technologies and open to collaboration. Feel free to reach out!*
